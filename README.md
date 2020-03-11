@@ -1,1 +1,1 @@
-# Salery Prediction of Employee
+# Salery Prediction Of Employee
